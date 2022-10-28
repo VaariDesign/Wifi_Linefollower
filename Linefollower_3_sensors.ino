@@ -294,3 +294,5 @@ bool displayConnectionDetails(void)
     return true;
   }
 }
+
+
